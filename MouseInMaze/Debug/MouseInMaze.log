@@ -1,0 +1,8 @@
+﻿  changeColor.cpp
+  main.cpp
+  Maze.cpp
+  Stack.cpp
+  XY.cpp
+  Generating Code...
+  LINK : C:\Users\Veritas\Downloads\MouseInMaze-master\MouseInMaze-master\Debug\MouseInMaze.exe not found or not built by the last incremental link; performing full link
+  MouseInMaze.vcxproj -> C:\Users\Veritas\Downloads\MouseInMaze-master\MouseInMaze-master\Debug\MouseInMaze.exe
